@@ -8,7 +8,7 @@ This folder contains all the project deliverables.
 
 | WP  | WP Description     | Deliverable   | Deliverable Description                                   | Related Task(s)   | Accountable/Responsible             | Related MS | Status |
 | --- | ------------------ | ------------- | --------------------------------------------------------- | ----------------- | ----------------------------------- | ---------- | ------ |
-| WP1 | Project Management | [D1.1](D1_1)  | [Mid-term management report](D1_1)                        | T1.0              | ALL                                 | MS1        | Draft |
+| WP1 | Project Management | ~~D1.1~~      | ~~Mid-term management report~~                            | T1.0              | AGID                                | MS1        | Withdrawn |
 | WP1 | Project Management | [D1.2](D1_2)  | [Final management report](D1_2)                           | T1.0              | ALL                                 | MS1        | Draft |
 | WP2 | Analysis           | [D2.1](D2_1)  | [Functional analysis](D2_1)                               | T2.1              | ANAC                                | MS2        | Draft |
 | WP2 | Analysis           | [D2.2](D2_2)  | [SIMOG new web Interface](D2_2)                           | T2.2              | ANAC                                | MS2        | Draft |
